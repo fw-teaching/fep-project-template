@@ -1,8 +1,9 @@
 # Stomme för Casinoprojektet
 
-## Katalogstrukturen
+### Katalogstruktur:
 
-```
+```sh
+
 assets/  # De resurser som behövs för sidan
     css/    # Alla CSS-filer 
         main.css # Site-wide CSS, ha allmän styling här
