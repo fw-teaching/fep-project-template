@@ -9,7 +9,7 @@ assets/  # De resurser som behövs för sidan
         main.css # Site-wide CSS, ha allmän styling här
         ssp.css  # Exempel på sidspecifik CSS-fil för sidan ssp.html 
 
-    images/ # Bilder här (skapa underkataloger enligt behov)
+    img/ # Bilder här (skapa underkataloger enligt behov)
 
     js/     # Alla JavaScript-filer
         main.js # Site-wide JS, ha sån js som ska funka överallt här
